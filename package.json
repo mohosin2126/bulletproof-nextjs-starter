@@ -80,6 +80,7 @@
     "@radix-ui/react-toggle-group": "latest",
     "@radix-ui/react-tooltip": "latest",
     "@react-email/components": "latest",
+    "@svgr/webpack": "^8.1.0",
     "@t3-oss/env-nextjs": "latest",
     "@tidbcloud/serverless": "latest",
     "@types/debug": "latest",
